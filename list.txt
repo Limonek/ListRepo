@@ -1,7 +1,8 @@
 Users:
 1. aa
 2. bb
-3. cc
-4. Maciej Lewinski
+3. c
+4. cc
+5. Maciej Lewinski
 
 End of list
